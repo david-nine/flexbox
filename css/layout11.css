@@ -1,0 +1,42 @@
+header {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin: 2%;
+}
+
+article {
+    display: flex;
+    margin: 2%;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.section {
+    background-color: lightgray;
+    width: 30%;
+}
+
+.section p {
+    margin: 5%;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.section img {
+    width: 94%;
+    margin: 3%;
+}
+
+footer {
+    background-color: lightgray;
+    margin: 2%;
+    padding: 2%;
+}
+
+footer p {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}

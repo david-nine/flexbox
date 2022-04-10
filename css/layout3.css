@@ -1,0 +1,14 @@
+article {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.text-section {
+    background-color: lightgrey;
+    width: 30%;
+}
+
+.text-section p {
+    padding: 4%;
+}

@@ -1,0 +1,30 @@
+header {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 0.5%;
+    margin: 2%;
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2%;
+}
+
+.text-section {
+    margin-top: 1.5%;
+    background-color: lightgrey;
+}
+
+.text-section {
+    padding: 2em;
+}
+
+.center-section {
+    background-color: grey;
+}
+
+.center-section p {
+    text-align: center;
+}

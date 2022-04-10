@@ -1,0 +1,47 @@
+article {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.top {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;     
+}
+
+.section-top {
+    width: 27%;
+}
+
+.section-top div {
+    margin-top: 5%;
+    background-color: lightgray;
+}
+
+.section-top img {
+    width: 94%;
+    margin: 3%;
+}
+
+.section-top div p {
+    padding: 3%;
+}
+
+.bottom {
+    width: 100%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom section {
+    width: 45%;
+    background-color: lightgray;
+}
+
+.bottom img {
+    width: 94%;
+    margin: 3%;
+}

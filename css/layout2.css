@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin: 2%;
+}
+
+article {
+    display: flex;
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.text-section {
+    background-color: lightgrey;
+    width: 67%;
+}
+
+.text-section p {
+    padding: 3%;
+    margin: auto;
+    size: 1%;
+}
+
+.image-section {
+    width: 30%;
+}
+
+.image-section img  {
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    background-color: lightgray;
+    margin: 2%;
+    padding: 2%;
+}
+
+footer p {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+

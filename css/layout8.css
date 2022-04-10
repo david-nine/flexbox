@@ -1,0 +1,27 @@
+article {
+    display: flex;
+    margin: 2%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.section {
+    background-color: lightgray;
+    width: 49%;
+    margin-top: 2%;
+}
+
+.small {
+    margin-top: 1%;
+}
+
+.section img {
+    width: 94%;
+    margin: 3%;
+}
+
+.section p {
+    margin: 2%;
+    font-size: 12px;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+header {
+    background-color: lightgray;
+    padding: 1em;
+    margin: 2%;
+    text-align: center;
+}
+
+article {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.text-section {
+    background-color: lightgrey;
+}
+
+.text-section p {
+    padding: 1.5em;
+}
+
+.right-section {
+    width: 62%;
+}
+
+.left-section {
+    width: 30%;
+}
